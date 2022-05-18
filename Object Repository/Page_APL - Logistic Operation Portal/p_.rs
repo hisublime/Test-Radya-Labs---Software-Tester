@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_</name>
+   <tag></tag>
+   <elementGuidId>43335844-4ec2-4b47-aff7-a97a7486eb3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='ID Role'])[1]/following::p[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b120dee3-2143-462a-b939-c068487a2998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>6b2d5f0c-f881-4e38-be1e-ff2e538ba54b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$%^^^</value>
+      <webElementGuid>bf2c02f1-f2c1-4f39-94f7-e33a0da885d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-base[@class=&quot;ng-star-inserted&quot;]/nz-layout[@class=&quot;app-layout ant-layout-has-sider ant-layout&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/nz-content[@class=&quot;ant-layout-content&quot;]/app-role-management-form[@class=&quot;ng-star-inserted&quot;]/nz-spin[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container ng-star-inserted&quot;]/form[@class=&quot;kt-mb-20 ant-form ng-untouched ng-pristine ant-form-vertical ng-valid&quot;]/div[@class=&quot;inner-content&quot;]/nz-form-item[@class=&quot;ant-form-item ant-row&quot;]/p[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>def4e65b-cad4-493d-9048-9c192038a214</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID Role'])[1]/following::p[1]</value>
+      <webElementGuid>978904b6-abd3-47b3-b0b3-9c385b7ce6fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Role'])[2]/following::p[1]</value>
+      <webElementGuid>bdb58edf-e3ed-4bfa-9a6d-1d4b5ca435d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Role'])[1]/preceding::p[1]</value>
+      <webElementGuid>7751c526-5b1b-4396-b86d-2d10d35866ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permission'])[1]/preceding::p[1]</value>
+      <webElementGuid>606ff4af-ca88-45bb-a344-7ace29a994ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='$%^^^']/parent::*</value>
+      <webElementGuid>f3a23eb0-8cad-46c2-abaf-1589e7ac44ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>8697f8ce-21fd-4bb0-bb51-72e55159a6e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '$%^^^' or . = '$%^^^')]</value>
+      <webElementGuid>c378016a-3774-4838-a70d-68bbbe1c2a39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

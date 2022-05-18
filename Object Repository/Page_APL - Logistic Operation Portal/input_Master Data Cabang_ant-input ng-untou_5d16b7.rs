@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Master Data Cabang_ant-input ng-untou_5d16b7</name>
+   <tag></tag>
+   <elementGuidId>6b4878e8-5fea-4623-b910-bfbe60dccda6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.ant-input.ng-untouched.ng-pristine.ng-valid.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>cd989de5-4e92-4ee2-ad26-cc66c174f80e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>ad27daf5-f8cb-4373-984f-c8e2c39cde39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cari</value>
+      <webElementGuid>7cb69de7-f926-4f42-824e-f7ae1a883413</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ng-untouched ng-pristine ng-valid ng-star-inserted</value>
+      <webElementGuid>171f97fd-2fa6-4482-b13a-e907898ebd5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-base[@class=&quot;ng-star-inserted&quot;]/nz-layout[@class=&quot;app-layout ant-layout-has-sider ant-layout&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/nz-content[@class=&quot;ant-layout-content&quot;]/app-master-plant-index[@class=&quot;ng-star-inserted&quot;]/nz-page-header[@class=&quot;ant-page-header ant-page-header-ghost has-breadcrumb&quot;]/nz-page-header-content[@class=&quot;ant-page-header-content&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;content-action&quot;]/nz-input-group[@class=&quot;ant-input-search-enter-button ant-input-search ant-input-group-wrapper cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;ant-input-wrapper ant-input-group ng-star-inserted&quot;]/input[@class=&quot;ant-input ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]</value>
+      <webElementGuid>99d7b1fa-fd39-49c1-bea4-e03d3849973a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>246484b9-f0a9-4a99-8d33-9ff542649775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>5d723a42-716d-406f-9538-2f47dfe00308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Cari']</value>
+      <webElementGuid>a8adfd8b-156d-46ca-8663-908a320f6d26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

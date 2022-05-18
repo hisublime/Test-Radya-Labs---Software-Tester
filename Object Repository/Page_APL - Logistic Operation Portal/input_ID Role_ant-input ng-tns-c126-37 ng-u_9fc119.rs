@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_ID Role_ant-input ng-tns-c126-37 ng-u_9fc119</name>
+   <tag></tag>
+   <elementGuidId>dfbf54bc-6c71-4de7-bdaa-7a899824f294</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.ant-input.ng-tns-c126-37.ng-untouched.ng-pristine.ng-invalid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>69005b0f-9451-4f6e-ac91-5a86f1d9056a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>id</value>
+      <webElementGuid>7134f0e4-42c3-4467-8058-6bcb79bc03e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>f760233a-3be9-49e3-9868-14d9f74775f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan ID Role</value>
+      <webElementGuid>b3d593e3-f940-4b5c-858f-b0065cf62909</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ng-tns-c126-37 ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>ee03cbc0-b329-47e0-ab9a-a6c34f07daca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-base[@class=&quot;ng-star-inserted&quot;]/nz-layout[@class=&quot;app-layout ant-layout-has-sider ant-layout&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/nz-content[@class=&quot;ant-layout-content&quot;]/app-role-management-form[@class=&quot;ng-star-inserted&quot;]/nz-spin[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container ng-star-inserted&quot;]/form[@class=&quot;kt-mb-20 ant-form ng-untouched ng-pristine ng-invalid ant-form-vertical&quot;]/div[@class=&quot;inner-content&quot;]/nz-form-item[@class=&quot;ant-form-item ant-row&quot;]/nz-form-control[@class=&quot;ng-tns-c126-37 ant-form-item-control ant-col ant-col-24 ng-star-inserted&quot;]/div[@class=&quot;ant-form-item-control-input ng-tns-c126-37&quot;]/div[@class=&quot;ant-form-item-control-input-content ng-tns-c126-37&quot;]/input[@class=&quot;ant-input ng-tns-c126-37 ng-untouched ng-pristine ng-invalid&quot;]</value>
+      <webElementGuid>839d2d6b-cc28-4cc0-97ff-89ef984ac65f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>44878e4c-e25a-4ff6-81a6-efce1dc4c91c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>fe355cb1-7622-4184-88e9-2f93841470f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Masukkan ID Role']</value>
+      <webElementGuid>f1a63dec-70c6-4e86-b6da-9bbad08f1b47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

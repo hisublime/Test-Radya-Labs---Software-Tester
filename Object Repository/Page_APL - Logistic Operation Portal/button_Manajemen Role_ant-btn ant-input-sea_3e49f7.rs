@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Manajemen Role_ant-btn ant-input-sea_3e49f7</name>
+   <tag></tag>
+   <elementGuidId>32b7a2dc-6611-4144-a153-f9824f509037</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen Role'])[2]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-input-search-button.ant-btn-icon-only.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7a56e872-f4c4-4c70-9e5e-d5a7eaec335b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>nztype</name>
+      <type>Main</type>
+      <value>default</value>
+      <webElementGuid>d28f7a5f-5903-49aa-89d9-04fd202dbe41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-input-search-button ant-btn-icon-only ng-star-inserted</value>
+      <webElementGuid>14633c06-71b0-4e61-b6f7-39d299ca9ed8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-base[@class=&quot;ng-star-inserted&quot;]/nz-layout[@class=&quot;app-layout ant-layout-has-sider ant-layout&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/nz-content[@class=&quot;ant-layout-content&quot;]/app-role-management-index[@class=&quot;ng-star-inserted&quot;]/nz-page-header[@class=&quot;ant-page-header ant-page-header-ghost&quot;]/nz-page-header-content[@class=&quot;ant-page-header-content&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;content-action&quot;]/nz-input-group[@class=&quot;ant-input-search-enter-button ant-input-search ant-input-group-wrapper cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;ant-input-wrapper ant-input-group ng-star-inserted&quot;]/span[@class=&quot;ant-input-group-addon ng-star-inserted&quot;]/button[@class=&quot;ant-btn ant-input-search-button ant-btn-icon-only ng-star-inserted&quot;]</value>
+      <webElementGuid>fe52c0d2-22e7-4bd8-9518-d59f09d9e8a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e0c1d367-9a4b-42d8-b7f7-29d5bc06dd17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>nztype</name>
+      <type>Main</type>
+      <value>default</value>
+      <webElementGuid>795d5b47-8477-422f-bb7a-fb2ab83ab7a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-input-search-button ant-btn-icon-only ng-star-inserted</value>
+      <webElementGuid>b42300f5-c8d6-4faf-9b1f-d48e83b46506</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/app-base[@class=&quot;ng-star-inserted&quot;]/nz-layout[@class=&quot;app-layout ant-layout-has-sider ant-layout&quot;]/nz-layout[@class=&quot;ant-layout&quot;]/nz-content[@class=&quot;ant-layout-content&quot;]/app-role-management-index[@class=&quot;ng-star-inserted&quot;]/nz-page-header[@class=&quot;ant-page-header ant-page-header-ghost&quot;]/nz-page-header-content[@class=&quot;ant-page-header-content&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;content-action&quot;]/nz-input-group[@class=&quot;ant-input-search-enter-button ant-input-search ant-input-group-wrapper cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;ant-input-wrapper ant-input-group ng-star-inserted&quot;]/span[@class=&quot;ant-input-group-addon ng-star-inserted&quot;]/button[@class=&quot;ant-btn ant-input-search-button ant-btn-icon-only ng-star-inserted&quot;]</value>
+      <webElementGuid>e60f5bc4-c960-42c4-b7b0-ecd6a67d5197</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen Role'])[2]/following::button[1]</value>
+      <webElementGuid>03ee9ebf-5135-4bcb-a07b-0ca30666351a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Aplikasi'])[1]/following::button[1]</value>
+      <webElementGuid>d8aff126-4273-4545-8484-612b36dac4e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Role'])[1]/preceding::button[1]</value>
+      <webElementGuid>3d1d2691-26e0-4589-b052-4cd96c0d93a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID Role'])[1]/preceding::button[2]</value>
+      <webElementGuid>20a4e7e6-1e8d-4ffe-8944-199ef0612489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>fc656751-52d3-4bd0-97d8-41d71e236422</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

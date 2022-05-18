@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Penanggung Jawab_ant-input ng-tns-c12_27aacd</name>
+   <tag></tag>
+   <elementGuidId>551855a3-35f5-4234-9077-1418cabd7922</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-10']/nz-modal-container/div/div/div[2]/form/div/div[3]/nz-form-item/nz-form-control/div/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.ant-input.ng-tns-c126-215.ng-untouched.ng-valid.ng-dirty</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>bdb4cf17-5c3c-492e-9de1-c53573d9542c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>penanggungJawab</value>
+      <webElementGuid>c4d2903e-5b66-439e-9a99-f9892a0d6aba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Masukkan nama penanggung jawab</value>
+      <webElementGuid>5e96e0e7-35cc-4e8f-a879-ce3a928909ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ng-tns-c126-215 ng-untouched ng-valid ng-dirty</value>
+      <webElementGuid>c2c23673-68bc-471b-9363-fea010ac07b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-10&quot;)/nz-modal-container[@class=&quot;ng-tns-c150-212 ng-trigger ng-trigger-modalContainer ant-modal-wrap ng-star-inserted&quot;]/div[@class=&quot;ant-modal ng-tns-c150-212&quot;]/div[@class=&quot;ant-modal-content ng-tns-c150-212&quot;]/div[@class=&quot;ant-modal-body ng-tns-c150-212&quot;]/form[@class=&quot;ant-form ant-form-vertical ng-star-inserted ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/nz-form-item[@class=&quot;ant-form-item ant-row ant-form-item-has-success&quot;]/nz-form-control[@class=&quot;ng-tns-c126-215 ant-form-item-control ant-col ng-star-inserted&quot;]/div[@class=&quot;ant-form-item-control-input ng-tns-c126-215&quot;]/div[@class=&quot;ant-form-item-control-input-content ng-tns-c126-215&quot;]/input[@class=&quot;ant-input ng-tns-c126-215 ng-untouched ng-valid ng-dirty&quot;]</value>
+      <webElementGuid>17fd2f22-09bd-4984-b970-0c7e56df9dc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-10']/nz-modal-container/div/div/div[2]/form/div/div[3]/nz-form-item/nz-form-control/div/div/input</value>
+      <webElementGuid>04713cb2-9e66-4dd6-b1de-983cae2cced6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/nz-form-item/nz-form-control/div/div/input</value>
+      <webElementGuid>4af49763-d6ae-4698-aca4-1cd36d0a65af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Masukkan nama penanggung jawab']</value>
+      <webElementGuid>a70225e3-22a5-4113-ac44-304a0524013b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
